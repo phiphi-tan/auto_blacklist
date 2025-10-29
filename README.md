@@ -2,8 +2,14 @@
 
 This repository requires:
 
+JavaScript
+
 - NodeJS
 - npm
+
+Python
+
+- python-dotenv
 
 After cloning, install required dependencies with
 
